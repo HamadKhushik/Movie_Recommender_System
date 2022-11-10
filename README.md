@@ -22,8 +22,9 @@ The following functionalities have been added to the program
 4. HTML and CSS styling have been used to display the results
 
 The following pictures show the output of the program
+
+
 ![](Images/SubmitRatings.PNG)
-![](Images/Recommendations.PNG)
 
 
 Please find the interactive link to the program below
